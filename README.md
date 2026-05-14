@@ -1,2 +1,46 @@
 # FUTURE_FS_01
-I am an aspiring Full Stack Developer passionate about creating modern, responsive, and user-friendly web applications. This portfolio project showcases my skills, projects, technical knowledge, and learning journey in web development.
+# Personal Professional Portfolio Website
+
+A modern and responsive personal portfolio website developed using HTML, CSS, and JavaScript to showcase my skills, projects, and career journey in Full Stack Development.
+
+## Features
+
+- Responsive modern UI design
+- Smooth scrolling navigation
+- Typing text animation
+- Interactive hover effects
+- Scroll reveal animations
+- Contact section with social links
+- GitHub and LinkedIn integration
+- Mobile responsive layout
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Sections Included
+
+- Home
+- About Me
+- Skills
+- Projects
+- Contact
+
+## Projects Showcased
+
+- Business Sales Analytics Dashboard
+- Personal Portfolio Website
+
+## Purpose of the Project
+
+This project was created as part of my Full Stack Development Internship task to improve frontend development skills and gain practical experience in building responsive and interactive websites.
+
+## Author
+
+Vasavi Padakanti
+
+## GitHub Repository
+
+https://github.com/vasavichinnu899-tech/FUTURE_FS_01
